@@ -1,0 +1,7 @@
+00:13:42	Ragav Kumar V:	https://codesandbox.io/
+00:27:37	Ragav Kumar V:	https://babeljs.io/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=AYKABBYDwBYMwD4AkBvArgZwKYCcB0AdgIYC2WAvlAPTwLiRQAOy62-AxjlkQC5YAmAQR6UqzehGBA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2%2Cstage-3%2Ctypescript&prettier=false&targets=Node-3.3&version=7.16.1&externalPlugins=&assumptions=%7B%7D
+00:30:39	Ragav Kumar V:	https://babeljs.io/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=KYDwDg9gTgLgBAE2AMwIYFcA29noHYDGMAlhHnAIJhgAUAlHAN4BQccUwM6U5NrbcADwJiANzgFMqAM7SAcqgC2wALwAiKmDUA-fgKEALAIzaAEsEyYIcAMIQkAZVR4EAIwghBAemO79bQQMAJm0HGFRYOGAREjwAczgYa2lgYDhpCGU4RVQ44gI4A1RqYDwAQm9gvwFvEVFqugBuZgBfZnavLzgAK2kQOABabTgAKQdmIA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2%2Cstage-3%2Ctypescript&prettier=false&targets=Node-3.3&version=7.16.1&externalPlugins=&assumptions=%7B%7D
+01:25:08	Ragav Kumar V:	Break for 5mins
+02:56:14	Ragav Kumar V:	https://heuristic-dijkstra-62c6b2.netlify.app/
+03:04:12	Ragav Kumar V:	// Task// min 6 movies// Movie list// 1. name// 2. poster// 3. rating// 4. summary
+03:04:33	Ragav Kumar V:	// submit github link & netlify link
